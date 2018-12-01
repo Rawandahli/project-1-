@@ -1,10 +1,29 @@
 
-about:
-Simon is a challanging memory game by Ralph H. Baer and Howard J. Morrison, and software programming by Lenny Cope. In this game players must repeat random sequences of lights by pressing the colored pads in the correct order. If the player succeeds, the series becomes longer and more complex. 
 
-framework:
-https://imgur.com/a/gcDYtk0
+Summary of the game:
+-In 1952 Tic Tac Toe became one of the first known video games, it was developed by Alexander S. Douglas who is a British computer scientist .
+
+How do you win this game:
+- A player can win if they had three in a row, three in a column or three in two crossed lines .
 
 
-challanges:
-1.
+technologies used:
+HTML, CSS, Jquary
+
+Wireframe:
+https://wireframe.cc/sru3ON
+
+
+Improvements: 
+- Adding a start button.
+- Adding an extra option 'playing with computer'.
+
+Special thanks:
+to all the instructours and classmates.
+
+
+Resources:
+-https://www.w3schools.com/jquery/
+-https://api.jquery.com/
+- https://en.wikipedia.org/wiki/Tic-tac-toe
+- https://wireframe.cc/
