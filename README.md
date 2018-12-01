@@ -2,7 +2,7 @@
 
 Summary of the game: 
 
--In 1952 Tic Tac Toe became one of the first known video games, it was developed by Alexander S. Douglas who is a British computer scientist .
+- In 1952 Tic Tac Toe became one of the first known video games, it was developed by Alexander S. Douglas who is a British computer scientist .
 
 How do you win this game:
 
