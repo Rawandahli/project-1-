@@ -24,7 +24,7 @@ to all the instructours and classmates.
 
 Resources:
 
--https://www.w3schools.com/jquery/
--https://api.jquery.com/
+- https://www.w3schools.com/jquery/
+- https://api.jquery.com/
 - https://en.wikipedia.org/wiki/Tic-tac-toe
 - https://wireframe.cc/
