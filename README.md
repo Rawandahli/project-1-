@@ -11,7 +11,9 @@ How do you win this game:
 
 technologies used:
 
-HTML, CSS, Jquary
+- HTML
+- CSS
+- Jquary
 
 Wireframe:
 
