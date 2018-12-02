@@ -36,3 +36,7 @@ Resources:
 - https://api.jquery.com/
 - https://en.wikipedia.org/wiki/Tic-tac-toe
 - https://wireframe.cc/
+
+the link to the game :
+
+- https://rawandahli.github.io/project1/index2.html
