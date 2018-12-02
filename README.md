@@ -30,6 +30,10 @@ Special thanks:
 to all the instructours and classmates.
 
 
+the link to the game :
+
+- https://rawandahli.github.io/project1/index2.html
+
 Resources:
 
 - https://www.w3schools.com/jquery/
@@ -37,6 +41,4 @@ Resources:
 - https://en.wikipedia.org/wiki/Tic-tac-toe
 - https://wireframe.cc/
 
-the link to the game :
 
-- https://rawandahli.github.io/project1/index2.html
