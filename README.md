@@ -27,8 +27,8 @@ Improvements:
 
 Special thanks:
 
-to all the instructours and classmates.
-
+Mr. Trever, Ms. jackie and ms Ghadeer.
+Abddulrab and Hanan
 
 the link to the game :
 
