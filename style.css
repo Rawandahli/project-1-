@@ -1,1 +1,41 @@
+body{
+   
+        background-image: url("giphy.gif");
+        background-size: 1000px;
+        background-color: #F0FFFF;
+        margin: 120px;
+    
+}
 
+
+.container{
+background-color:#20B2AA;
+width: 400px;
+height: 360px;
+margin: 0 auto;
+display: flex;
+flex-wrap: wrap;
+bottom: 30px;
+top:50px;
+
+
+}
+
+.square{
+    background-color: #344aeb;
+    width: 100px;
+    height: 100px;
+    border: 2px solid ;
+    border-color: black;
+    margin: 0 auto;
+    cursor: pointer; 
+     /* cursor: grab; */
+    font-size: 60px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: palevioletred;
+    text-decoration: underline overline;
+    font-size: 60px;
+}
